@@ -1,0 +1,8 @@
+# Ignore SQLite database
+db.sqlite3
+
+# Ignore other potential sensitive or build files
+*.pyc
+__pycache__/
+*.pyo
+*.log
